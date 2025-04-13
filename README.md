@@ -6,7 +6,6 @@ User Authentication: Secure login and registration for patients and doctors.
 
 Appointment Booking: Patients can view available slots and book appointments with preferred doctors.
 
-Doctor Dashboard: Doctors can manage their availability and view upcoming appointments.
 
 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
