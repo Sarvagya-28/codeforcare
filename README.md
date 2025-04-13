@@ -16,10 +16,10 @@ Frontend:
 
 HTML5, CSS3, JavaScript
 
-Frameworks/Libraries: [ React, Tailwind]
+Frameworks/Libraries: [React, Tailwind]
 
 Backend:
 
-[Specify Backend Language/Framework, e.g., Node.js with Express]
+[Node.js with Express]
 
 Database: [MongoDB]
