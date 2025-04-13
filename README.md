@@ -1,4 +1,4 @@
-CodeForCare
+
 CodeForCare is a full-stack web application designed to streamline the process of booking doctor appointments. It offers a user-friendly interface for patients to schedule appointments and for doctors to manage their schedules efficiently.
 
 Features
